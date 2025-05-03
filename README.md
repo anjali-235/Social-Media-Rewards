@@ -16,6 +16,9 @@ To revolutionize content engagement on social platforms by fairly and transparen
 
 ## 🔧 Contract Details
 ### Contract Address: CBSCZO577OT67IFZLFOCKZS4IPE6V3DRMVH66THBVEMDSBJ56OVUAEGQ 
+
+<img width="953" alt="{A5DD81C5-B7B6-4919-B1BD-0639486F1043}" src="https://github.com/user-attachments/assets/7eb0b08d-67a6-4bde-85a3-398a2a0da926" />
+
 ### Functions:
 - `reward_post(user: Address, post_id: String, reward_points: u64)`
   - Authenticated users can reward points to themselves (or others) for a given post ID.
